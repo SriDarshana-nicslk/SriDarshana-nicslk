@@ -5,7 +5,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridarshana-nicslk&show_icons=true&locale=en" alt="sridarshana-nicslk" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridarshana-nicslk&show_icons=true&locale=en" alt="sridarshana-nicslk" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridarshana-nicslk&" alt="sridarshana-nicslk" /></p>
 
